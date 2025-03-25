@@ -27,7 +27,3 @@ I'm passionate about blending AI integration, intuitive UI/UX, and robust backen
 
 
 ---
-
-## My GitHub Stats
-
-![Mehmet's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehmetyertikaya&show_icons=true&theme=radical)
