@@ -1,6 +1,6 @@
 # Hi there, I'm Mehmet! 👻👋
 
-I'm passionate about blending data analytics, AI integration, and intuitive UI/UX to build robust real-world applications. I continuously explore emerging technologies and strive to create impactful, data-driven projects.
+I'm passionate about blending data analytics, AI integration, and intuitive UI/UX to build hands-on applications. I continuously explore emerging technologies and strive to create impactful, data-driven projects.
 
 - 🔭 **Currently Working On:** AI-driven projects and enhancing user experiences  
 - 🌱 **Always Learning:** Delving into new frameworks, libraries, and best practices  
