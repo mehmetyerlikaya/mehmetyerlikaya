@@ -8,7 +8,7 @@ I'm passionate about blending AI integration, intuitive UI/UX, and robust backen
 
 ---
 
-## Tech Stack
+## Tech Stack I use:
 
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)  
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)  
