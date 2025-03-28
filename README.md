@@ -4,7 +4,7 @@ I'm passionate about blending data analytics, AI integration, and intuitive UI/U
 
 - 🔭 **Currently Working On:** AI-driven projects and enhancing user experiences  
 - 🌱 **Always Learning:** Delving into new frameworks, libraries, and best practices  
-- 👯 **Collaborations:** Excited to connect with developers and designers on innovative projects  
+- 🤝 **Collaborations:** Excited to connect with developers and designers on innovative projects  
 
 ---
 
